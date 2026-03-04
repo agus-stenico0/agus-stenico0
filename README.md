@@ -1,6 +1,6 @@
 ## Hola, soy Agustin Stenico! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre Mi
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 Soy técnico de programación. Disfruto desarrollando sistemas funcionales que impresionen al usuario. Actualmente sigo ampliando mis conocimientos y estoy buscando un trabajo donde pueda aplicar lo aprendido durante mi carrera y lo aprendido por mi cuenta.
