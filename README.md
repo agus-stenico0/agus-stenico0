@@ -1,4 +1,4 @@
-## Hi, I am Agustin Stenico! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hola, soy Agustin Stenico! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
@@ -9,7 +9,7 @@ Actualmente estoy aprendiendo...
 -Node.js
 <br>
 
-## Contacte Me
+## Contactame
 
 <a href="https://www.linkedin.com/in/agustin-stenico-b65120269/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -21,9 +21,9 @@ Actualmente estoy aprendiendo...
 
 
 
-## My Skills Include
+## Mis Habilidades
 
-<h4> Languages </h4>
+<h4> Lenguajes </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -40,7 +40,7 @@ Actualmente estoy aprendiendo...
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </span>
 
-<h4> Databases </h4>
+<h4> Bases de Datos </h4>
 <span>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </span>
@@ -51,7 +51,7 @@ Actualmente estoy aprendiendo...
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
 
-<h4> Other Tools and Technologies </h4>
+<h4> Otras Herramientas y Tecnologias </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
