@@ -3,11 +3,10 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-I am a programming technical. I enjoy developing functional systems that impress users.
-I'm currently continuing to expand my knowledge and am looking for a job where I can apply what I've learned during my degree and what I've learned on my own. <br>
-I am currently learning...
-- React
-- Node.js
+Soy técnico de programación. Disfruto desarrollando sistemas funcionales que impresionen al usuario. Actualmente sigo ampliando mis conocimientos y estoy buscando un trabajo donde pueda aplicar lo aprendido durante mi carrera y lo aprendido por mi cuenta.
+Actualmente estoy aprendiendo...
+-React
+-Node.js
 <br>
 
 ## Contacte Me
